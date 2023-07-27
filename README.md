@@ -1,10 +1,13 @@
-<h1 align="center">BlueBird-Movies</h1>
-BlueBird-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+<h1 align="center">CT-Movies- OS</h1>
+CT-moviesOS is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
 ![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
 
 <hr/>
+
+# figma file 
+![image](https://github.com/jigarvyasidea/movies/assets/80967728/7b005cc2-a19f-49a1-944f-d7d84f12087f)
 
 # 🍿 Features 
 
@@ -20,7 +23,8 @@ BlueBird-Movies is a React-based movie website that allows users to search for m
 
 # 🍿 Technology
 
-BlueBird-Movies is built using the following technologies:
+
+CT-Movies-OS is built using the following technologies:
 
 - ReactJS
 - TMDB API
@@ -52,7 +56,8 @@ Note that Firebase is only required for Google authentication. If you are not us
 - Go to the Firebase Console and create a new app.
 - After creating the app, build a web app by clicking "Add App" and following the instructions.
 
-![Firebase Add App Screenshot](https://user-images.githubusercontent.com/87109400/231569204-445d8007-fe75-4012-a21b-a71f4f4bc697.png)
+![image](https://github.com/jigarvyasidea/movies/assets/80967728/b3597fc8-43ec-412b-a7eb-6b73493444fa)
+
 
 ![Firebase Build App Screenshot](https://user-images.githubusercontent.com/87109400/231568774-1ea09ada-34b8-4035-80d4-90ac79c1c8ed.png)
 
@@ -63,7 +68,8 @@ Note that Firebase is only required for Google authentication. If you are not us
 - Next, to activate Google authentication in Firebase, go to **Build > Authentication** and enable Google authentication.
 - To use Google authentication in localhost, add your localhost/127.0.0.1 as an Authorized Domain at **Build > Authentication > Settings > Authorized Domains** and add localhost or 127.0.0.1 to this section.
 
-![image](https://user-images.githubusercontent.com/87109400/231575419-ca703ebd-5380-45b6-8afe-33b9c1af778e.png)
+![image](https://github.com/jigarvyasidea/movies/assets/80967728/a23cd38f-9afb-4f06-af51-957eb4b73d86)
+
 
 ## Step 3: Run the Website
 
@@ -80,6 +86,6 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 # 🍿 Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
- 
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
+- Check out our live demo at https://ct-movies-os.netlify.app
+ - Figma file:-  https://www.figma.com/file/bzpoBWMo2sC9IUJbgowyuq/CT-movies-OS?type=design&node-id=0%3A1&mode=design&t=5kBFtSCL9E5KgEFk-1
+
