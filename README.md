@@ -2,7 +2,8 @@
 CT-moviesOS is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
-![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
+![image](https://github.com/jigarvyasidea/movies/assets/80967728/dbd2f298-1933-4ca5-8b09-b5a4d41b9a84)
+
 
 <hr/>
 
